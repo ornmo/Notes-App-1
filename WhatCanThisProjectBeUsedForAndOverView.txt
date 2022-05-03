@@ -1,7 +1,11 @@
-This project is made of background images that expand when clicked on. 
+This project is a little notes app. 
+The notes are saved locally using the local storage API.
+Multpile notes can be created.
+The app uses a markdown library to enabe the user to create markdown and the save/ toggle button allows these lists to be saved with markdown applied
 
 It uses Flexbox, CSS transitions and JavaScript
 
-This could be converted to be used in (for example) the following ways
 
-- 
+It is  a good application when learning about markup, local storage and how to work with the DOM
+
+It is also an example of a simple CRUD application
